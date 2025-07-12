@@ -1,18 +1,18 @@
-# Gaurav Muskan
-> ### Tax Consultant | Accountant 
+# Bhanu Pratap 
+> ### SDET | QA engineer 
 <br>
-High level experience in Taxation, Accounting & expertise in producing quality work.
+Racing is my hobby.
 <hr>
-Contact me now to avail exciting discounts on your new Projects
+Contact me for planing any racing event
 <br>
 <hr>
 Hosted on:
 <br>
-▶️ https://askmoneymatters.github.io/
+▶️ https://bahnuPratap.github.io/
 <hr>
 <img src="./res/seo.jpg">
 <hr>
 <br>
 Made in association with 
 
-[Pranjal Kumar⏩](https://github.com/Pranjal-Barnwal/)
+[Bhanu Pratap⏩](https://github.com/bhanu3131/)
